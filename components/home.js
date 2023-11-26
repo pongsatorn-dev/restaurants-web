@@ -75,7 +75,7 @@ export default {
                 <h5 class="card-header">ค้นหาสถานที่ใกล้เคียง</h5>
                 <div class="card-body">
                     <div class="input-group mb-3">
-                        <input v-model="searchPlace" @keydown.enter="search()" type="text" class="form-control" placeholder="bangsue" aria-label="bangsue" aria-describedby="button-addon2">
+                        <input v-model="searchPlace" @keydown.enter="search()" type="text" class="form-control" placeholder="bangsue" aria-label="bang sue" aria-describedby="button-addon2">
                         <button @click="search()" class="btn btn-outline-secondary" type="button" id="button-addon2">ค้นหา</button>
                       </div>
                 </div>
