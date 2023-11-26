@@ -1,1 +1,1 @@
-# restaurants-web
+# restaurants-web use Vue3 CDN Importmap
